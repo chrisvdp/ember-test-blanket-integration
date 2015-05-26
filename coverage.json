@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2015-05-25T22:02:27.402Z",
+    "end": "2015-05-25T22:02:27.624Z"
+  },
+  "coverage": {
+    "total": {
+      "statementsTotal": 52,
+      "statementsCovered": 45,
+      "percentage": 86.54
+    },
+    "files": [
+      {
+        "name": "ember-test-blanket-integration/app",
+        "statementsTotal": 7,
+        "statementsCovered": 7,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/config/environment",
+        "statementsTotal": 8,
+        "statementsCovered": 1,
+        "percentage": 12.5
+      },
+      {
+        "name": "ember-test-blanket-integration/initializers/app-version",
+        "statementsTotal": 9,
+        "statementsCovered": 9,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/initializers/export-application-global",
+        "statementsTotal": 8,
+        "statementsCovered": 8,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/initializers/simple-auth",
+        "statementsTotal": 5,
+        "statementsCovered": 5,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/router",
+        "statementsTotal": 6,
+        "statementsCovered": 6,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/routes/test",
+        "statementsTotal": 3,
+        "statementsCovered": 3,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/controllers/array",
+        "statementsTotal": 3,
+        "statementsCovered": 3,
+        "percentage": 100
+      },
+      {
+        "name": "ember-test-blanket-integration/controllers/object",
+        "statementsTotal": 3,
+        "statementsCovered": 3,
+        "percentage": 100
+      }
+    ]
+  }
+}
